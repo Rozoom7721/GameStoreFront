@@ -45,6 +45,7 @@ Example returned from the API:
   "genre": "Adventure",
   "price": 59.99,
   "releaseDate": "2019-03-22"
-}```
+}
+```
 
 Backend: https://github.com/Rozoom7721/GameStore
