@@ -1,4 +1,4 @@
-# 🎮 Game Library Web App
+# 🎮 Game Store Web App
 
 A full-stack **web application** for managing a collection of video games.  
 Built with **ASP.NET Core (C#)** as the backend REST API and **React + TypeScript** as the frontend.
